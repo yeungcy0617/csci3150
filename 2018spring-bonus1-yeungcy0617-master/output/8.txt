@@ -1,0 +1,3 @@
+The total number of records is:
+1
+1155073104,Jim,CSCI4190,Introduction To Social Networks

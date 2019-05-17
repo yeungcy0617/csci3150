@@ -1,0 +1,7 @@
+The total number of records is:
+5
+1155073101,Amy,CSCI3150,Introduction to Operating Systems
+1155073102,Bob,CSCI3150,Introduction to Operating Systems
+1155073100,Tom,CSCI3170,Introduction to Database Systems
+1155073103,Sam,CSCI4190,Introduction To Social Networks
+1155073104,Jim,CSCI4190,Introduction To Social Networks
